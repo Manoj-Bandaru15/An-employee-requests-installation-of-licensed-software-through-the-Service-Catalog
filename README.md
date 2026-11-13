@@ -1,0 +1,2 @@
+# An-employee-requests-installation-of-licensed-software-through-the-Service-Catalog
+The Software Installation Request Automation project in ServiceNow simplifies software requests through a Service Catalog. It automates approvals, task assignments, notifications, and tracking. This reduces manual work, saves time, improves efficiency, ensures authorization, and provides a secure software installation process for employees.
